@@ -94,7 +94,7 @@ html {
 }
 .sidebar-nav li:first-child a {
   background-color: #1a1a1a;
-  color: #ffffff;
+  color: #1c1c1c;
 }
 .sidebar-nav li:nth-child(2):before {
   background-color: #402d5c;
@@ -126,7 +126,7 @@ html {
   width: 100%;
 }
 .sidebar-nav li a {
-  color: #dddddd;
+  color: rgba(22, 12, 35, 0.91);
   display: block;
   padding: 10px 15px 10px 30px;
   text-decoration: none;
@@ -154,7 +154,7 @@ html {
 .sidebar-nav li.open a:active,
 .sidebar-nav li.open a:focus {
   background-color: transparent;
-  color: #ffffff;
+  color: #1c1c1c;
   text-decoration: none;
 }
 .sidebar-nav > .sidebar-brand {
@@ -188,7 +188,7 @@ html {
 .hamburger.is-closed:before {
   -webkit-transform: translate3d(0, 0, 0);
   -webkit-transition: all 0.35s ease-in-out;
-  color: #ffffff;
+  color: #1c1c1c;
   content: '';
   display: block;
   font-size: 14px;
@@ -240,25 +240,25 @@ html {
 .hamburger.is-open .hamb-top {
   -webkit-transform: rotate(45deg);
   -webkit-transition: -webkit-transform 0.2s cubic-bezier(0.73, 1, 0.28, 0.08);
-  background-color: #ffffff;
+  background-color: #1c1c1c;
   margin-top: -2px;
   top: 50%;
 }
 .hamburger.is-open .hamb-middle {
-  background-color: #ffffff;
+  background-color: #1c1c1c;
   display: none;
 }
 .hamburger.is-open .hamb-bottom {
   -webkit-transform: rotate(-45deg);
   -webkit-transition: -webkit-transform 0.2s cubic-bezier(0.73, 1, 0.28, 0.08);
-  background-color: #ffffff;
+  background-color: #1c1c1c;
   margin-top: -2px;
   top: 50%;
 }
 .hamburger.is-open:before {
   -webkit-transform: translate3d(0, 0, 0);
   -webkit-transition: all 0.35s ease-in-out;
-  color: #ffffff;
+  color: #1c1c1c;
   content: '';
   display: block;
   font-size: 14px;
@@ -294,16 +294,16 @@ body h1,
 body h2,
 body h3,
 body h4 {
-  color: rgba(255, 255, 255, 0.9);
+  color: rgba(19, 19, 24, 0.94);
 }
 body p,
 body blockquote {
-  color: rgba(255, 255, 255, 0.7);
+  color: rgba(35, 22, 27, 0.92);
 }
 body a {
-  color: rgba(255, 255, 255, 0.8);
+  color: rgba(26, 12, 18, 0.9);
   text-decoration: underline;
 }
 body a:hover {
-  color: #ffffff;
+  color: #1c1c1c;
 }
