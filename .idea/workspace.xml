@@ -34,8 +34,8 @@
       <file leaf-file-name="post.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/post.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="482">
-              <caret line="44" column="13" lean-forward="true" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+            <state relative-caret-position="334">
+              <caret line="97" column="24" lean-forward="true" selection-start-line="97" selection-start-column="24" selection-end-line="97" selection-end-column="24" />
               <folding>
                 <element signature="n#style#0;n#hr#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#script#0;n#!!top" expanded="false" />
@@ -132,6 +132,7 @@
       <find>chromestatus</find>
       <find>designmodo.github.io</find>
       <find>CATALOG</find>
+      <find>distractionFreeMode: {</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Users\AIERXUAN\Documents\GitHub\xujinjie151.github.io\_layouts</dir>
@@ -433,8 +434,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
-          <caret line="44" column="13" lean-forward="true" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+        <state relative-caret-position="334">
+          <caret line="97" column="24" lean-forward="true" selection-start-line="97" selection-start-column="24" selection-end-line="97" selection-end-column="24" />
           <folding>
             <element signature="n#style#0;n#hr#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#script#0;n#!!top" expanded="false" />
