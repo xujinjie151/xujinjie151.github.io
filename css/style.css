@@ -166,7 +166,7 @@ html {
 /*       Hamburger-Cross         */
 /*-------------------------------*/
 .hamburger {
-  background: transparent;
+  background:#09BB07;
   border: none;
   display: block;
   height: 32px;
