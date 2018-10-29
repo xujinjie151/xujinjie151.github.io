@@ -11,7 +11,7 @@ body {
 body,
 html {
   height: 100%;
-  background-color: #81D741;
+  background-color: #EEEBE8;
 }
 .nav .open > a {
   background-color: transparent;
@@ -103,7 +103,7 @@ html {
   background-color: #4c366d;
 }
 .sidebar-nav li:nth-child(4):before {
-  background-color: #81D741;
+  background-color: #4c366d;
 }
 .sidebar-nav li:nth-child(5):before {
   background-color: #64468f;
@@ -289,10 +289,7 @@ html {
   z-index: 1;
 }
 /* SOME DEMO STYLES - NOT REQUIRED */
-body,
-html {
-  background-color: #81D741;
-}
+
 body h1,
 body h2,
 body h3,
