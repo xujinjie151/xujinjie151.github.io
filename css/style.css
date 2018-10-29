@@ -94,7 +94,7 @@ html {
 }
 .sidebar-nav li:first-child a {
   background-color: #1a1a1a;
-  color: #1c1c1c;
+  color: #EEEBE8;
 }
 .sidebar-nav li:nth-child(2):before {
   background-color: #402d5c;
